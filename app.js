@@ -1,7 +1,6 @@
-
-const express = require('express')
-const colors = require('ansi-colors')
-const app = express()
+const express = require('express');
+const colors = require('ansi-colors');
+const app = express();
 const port = 3010
 
 // middleware
